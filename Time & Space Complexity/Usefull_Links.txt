@@ -1,1 +1,10 @@
-Links
+Time and Space Complexity COMPLETE Tutorial - What is Big O? : By KUNAL Kushwaha
+
+https://www.youtube.com/watch?v=mV3wrLBbuuE
+
+_____________________________________________________________________________________
+
+Big O Notation - Full Course : by freecodecamp
+
+https://www.youtube.com/watch?v=Mo4vesaut8g
+
